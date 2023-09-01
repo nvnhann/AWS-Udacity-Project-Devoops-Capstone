@@ -2,7 +2,7 @@
 
 >My website: [My bolg](http://a0e261223ad424cf5ab2cb53e65678dc-583336072.us-west-2.elb.amazonaws.com/)
 
->ci/cd pipelines: [circleci](http://a0e261223ad424cf5ab2cb53e65678dc-583336072.us-west-2.elb.amazonaws.com/)
+>ci/cd pipelines: [circleci](https://app.circleci.com/pipelines/github/nvnhann/devoops-capstone/3/workflows/8fac6f73-8d50-45e7-88c8-1af72a43c703/jobs/3)
 
 ## Overview
 
