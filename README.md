@@ -26,7 +26,6 @@ This project operationalizes a Python Flask demo web my blog using CircleCI and 
 
 4. **Makefile and Shell Scripts**:
    - To streamline and automate the various tasks in this project, we have organized them into a Makefile.
-   - The Makefile uses shell scripts stored in the `bin` directory to perform actions such as building and deploying the application.
    - This structured approach simplifies project management and execution of tasks.
 
 By combining CircleCI, AWS EKS, Docker Hub, and Kubernetes, we have created a robust workflow for developing, testing, and deploying the "hello" Flask application, ensuring efficient development and production deployment processes.
