@@ -2,6 +2,8 @@
 
 >My website: [My bolg](http://a0e261223ad424cf5ab2cb53e65678dc-583336072.us-west-2.elb.amazonaws.com/)
 
+>ci/cd pipelines: [circleci](http://a0e261223ad424cf5ab2cb53e65678dc-583336072.us-west-2.elb.amazonaws.com/)
+
 ## Overview
 
 This project operationalizes a Python Flask demo web my blog using CircleCI and an AWS EKS (Amazon Elastic Kubernetes Service) cluster:
